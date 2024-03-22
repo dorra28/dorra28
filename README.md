@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @dorra28
 - 👀 I’m interested in programming , AI 
-- 🌱 I’m currently learning python , R python Data structtures , python for Data science ,SQl 
+- 🌱 I program with python , R , bash and Perl
+- 
 - 💞️ I’m looking to collaborate on projects in bioinformatics 
 
 
