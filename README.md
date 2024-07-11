@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dorra28
 - 👀 I’m interested in Deeplearing ,Machinlearing in drug discovery 
 - 🌱 I program with python , R , bash and Perl
--     work with NGS data (metatransceiptomics analysis , metagenomics analysis )
 - 💞️ I’m looking to collaborate on projects in bioinformatics 
 
 
