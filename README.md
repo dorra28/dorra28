@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dorra28
-- 👀 I’m interested in Deeplearing ,Machinlearing in drug discovery 
+- 👀 I’m interested in Deep learing ,Machine learing in drug discovery 
 - 🌱 I program with python , R , bash and Perl
 - 💞️ I’m looking to collaborate on projects in bioinformatics 
 
