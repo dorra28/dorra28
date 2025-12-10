@@ -1,4 +1,4 @@
-PHD in bioinformatics 
+Bioinformatics 
 
 
 <!---
